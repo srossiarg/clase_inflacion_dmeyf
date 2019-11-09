@@ -11,6 +11,6 @@ La fuente de los datos de inflación es:
 * 2012-2016 [DGEyC - GCBA](https://www.estadisticaciudad.gob.ar/eyc/)
 * 2016- hoy [INDEC](https://www.indec.gob.ar/)
 
-Recomiendo usar las series de inflacion disponibles en la pagina del [Ministerio de Hacienda](https://www.minhacienda.gob.ar/datos/) que tiene series de IPC provinciales y nacionales. Tiene además una [API](https://series-tiempo-ar-api.readthedocs.io/es/latest/) que pueden integrar a R 
+Recomiendo usar como fuente los datasets de la pagina del [Ministerio de Hacienda](https://www.minhacienda.gob.ar/datos/). Cuenta con series historicas de dólar, salarios e IPC provinciales y nacionales, entre otras variables. Tiene además una [API](https://series-tiempo-ar-api.readthedocs.io/es/latest/) que pueden integrar a R 
 
 
